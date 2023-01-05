@@ -16,7 +16,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/shah_mayank__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.quora.com/profile/Mayank-Raj-344"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F137401%2Fisolated%2Fpreview%2F00300d00be87848b87d820f2664bc7eb-quora-icon-logo-by-vexels.png&f=1&nofb=1&ipt=6ee876b506fe1db79feb18665f120588511d57b84344ac97ea6aa8729cedb2ef&ipo=images" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
