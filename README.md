@@ -75,4 +75,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankCreation0&layout=compact)](https://github.com/mayankCreation0)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayankCreation0.mayankCreation0)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayankCreation0.mayankCreation0)](https://github.com/mayankCreation0)
