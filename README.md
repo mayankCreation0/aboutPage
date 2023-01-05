@@ -62,17 +62,17 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
 - [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602) -->
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayankCreation0)](https://github.com/mayankCreation0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankCreation0&layout=compact)](https://github.com/mayankCreation0)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayankCreation0.mayankCreation0)](https://www.yushi.dev/)
