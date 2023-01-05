@@ -14,16 +14,16 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/shah_mayank__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.quora.com/profile/Mayank-Raj-344"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F137401%2Fisolated%2Fpreview%2F00300d00be87848b87d820f2664bc7eb-quora-icon-logo-by-vexels.png&f=1&nofb=1&ipt=6ee876b506fe1db79feb18665f120588511d57b84344ac97ea6aa8729cedb2ef&ipo=images" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mayank Raj | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/shah_mayank__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mayank Raj | Instagram" width="21px"/></a>
+<a href="https://www.quora.com/profile/Mayank-Raj-344"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F137401%2Fisolated%2Fpreview%2F00300d00be87848b87d820f2664bc7eb-quora-icon-logo-by-vexels.png&f=1&nofb=1&ipt=6ee876b506fe1db79feb18665f120588511d57b84344ac97ea6aa8729cedb2ef&ipo=images" alt="Mayank Raj | Quora" width="21px"/></a>
+<a href="https://leetcode.com/leadermayank24/"><img align="left" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Mayank Raj | Leetcode" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
 - My CSS skill
@@ -40,10 +40,10 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=DSA&color=CC342D)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Java&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=MongoDB&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
