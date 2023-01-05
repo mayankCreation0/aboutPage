@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/" target="_blank" rel="noreferrer"><img src="./Blue.png" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/" target="_blank" rel="noreferrer"><img src="./Blue.png" alt="my banner" height='90px'></a>
 </p>
 
 <h3 align="center">
