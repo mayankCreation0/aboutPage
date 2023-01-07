@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/mayank-raj-ba32a2205/" target
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack MERN Web Developer 💻 and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
